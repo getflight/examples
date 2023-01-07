@@ -1,0 +1,4 @@
+name: echo
+trigger: gateway
+environments:
+  - name: staging

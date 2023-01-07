@@ -1,0 +1,6 @@
+name: queue
+trigger: queue
+files:
+  - resources
+environments:
+  - name: staging

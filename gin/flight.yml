@@ -1,0 +1,4 @@
+name: gin
+trigger: gateway
+environments:
+  - name: staging

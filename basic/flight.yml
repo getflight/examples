@@ -1,0 +1,13 @@
+name: basic
+trigger: gateway
+files:
+  - resources
+environments:
+  - name: staging
+    variables:
+      - key: my-key-1
+        value: my-value-1
+      - key: my-key-2
+        value: my-value-2
+      - key: my-key-3
+        value: my-value-3

@@ -1,0 +1,8 @@
+databases:
+  example:
+    driver: mysql
+    username: root
+    password: root
+    host: localhost
+    port: 3306
+    name: example

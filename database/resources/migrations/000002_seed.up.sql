@@ -1,0 +1,3 @@
+INSERT INTO notes (id, `name`, note, created_at, updated_at, deleted_at) VALUES (1, 'First note', 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.', '2099-01-01 00:00:00', '2099-01-01 00:00:00', '2099-01-01 00:00:00');
+INSERT INTO notes (id, `name`, note, created_at, updated_at, deleted_at) VALUES (2, 'Second note', 'Donec ultricies porttitor mollis.', '2099-01-01 00:00:00', '2099-01-01 00:00:00', '2099-01-01 00:00:00');
+INSERT INTO notes (id, `name`, note, created_at, updated_at, deleted_at) VALUES (3, 'Third note', 'Ut gravida, enim sit amet fringilla tempus, neque turpis blandit lectus, sed vulputate dui ligula sit amet urna.', '2099-01-01 00:00:00', '2099-01-01 00:00:00', '2099-01-01 00:00:00');

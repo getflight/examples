@@ -1,0 +1,9 @@
+name: db
+trigger: gateway
+files:
+  - resources
+environments:
+  - name: staging
+    databases:
+      - name: example
+        driver: mysql
